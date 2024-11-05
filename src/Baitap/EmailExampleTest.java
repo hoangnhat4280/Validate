@@ -1,3 +1,5 @@
+package Baitap;
+
 public class EmailExampleTest {
     public static EmailExample emailExample;
     public static final String[] validEmail = new String[]{"a@gmail.com", "ab@yahoo.com", "abc@hotmail.com"};
